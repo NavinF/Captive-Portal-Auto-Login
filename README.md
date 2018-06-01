@@ -1,11 +1,12 @@
 # Captive-Portal-Auto-Login
 
+## Deps
 
-##Deps
 1. Install chromedriver and ensure that it is in $PATH
 2. `pip3 install selenium`
 
-##Run
+## Run
+
     navin@Radiant ~$ git clone https://github.com/NavinF/Captive-Portal-Auto-Login
     Cloning into 'Captive-Portal-Auto-Login'...
     navin@Radiant ~$ cd Captive-Portal-Auto-Login 
